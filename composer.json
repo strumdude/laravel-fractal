@@ -23,7 +23,6 @@
     "require": {
         "php": "7.4.33|^8.0",
         "illuminate/contracts": "^8.0|^9.0|^10.0",
-        "illuminate/support": "^8.0|^9.0|^10.0",
         "league/fractal": "^0.20.1|^0.20",
         "nesbot/carbon": "^2.63",
         "spatie/fractalistic": "^2.9.5|^2.9",
